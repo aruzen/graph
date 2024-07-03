@@ -1,0 +1,10 @@
+.DS_Store
+.cache
+.git
+.idea
+2DAction.xcodeproj
+App
+Info.plist
+cmake-build-debug
+compile_commands.json
+icon.icns
